@@ -1,7 +1,7 @@
 # Math Tutor & Rock-Paper-Scissors Game
 
 A console-based C++ application featuring:
-- Math practice with multiple difficulty levels
+- Math practice with multiple options
 - Rock-Paper-Scissors game
 - Score tracking
 
